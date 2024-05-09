@@ -1,0 +1,1247 @@
+Spring Semester 2022			
+1. CS 1260 Section 01			
+Class Nbr	32844	Capacity	35
+Title	Python for Beginners	Units	3
+Time	1:00 PM–2:15 PM   TuTh	Building/Room	Bldg 9 Rm 243
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Maini, Devika	Compnt./Mode	Lecture, In-Person
+			
+2. CS 1300 Section 01			
+Class Nbr	32860	Capacity	35
+Title	Discrete Structures	Units	3
+Time	9:00 AM–9:50 AM   MWF	Building/Room	Bldg 8 Rm 345
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Diaz, Tony	Compnt./Mode	Lecture, In-Person
+			
+3. CS 1300 Section 02			
+Class Nbr	32861	Capacity	34
+Title	Discrete Structures	Units	3
+Time	10:00 AM–10:50 AM   MWF	Building/Room	Bldg 8 Rm 348
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Diaz, Tony	Compnt./Mode	Lecture, In-Person
+			
+4. CS 1300 Section 03			
+Class Nbr	32862	Capacity	53
+Title	Discrete Structures	Units	3
+Time	10:00 AM–11:15 AM   TuTh	Building/Room	Bldg 8 Rm 345
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Chen, Tingting	Compnt./Mode	Lecture, In-Person
+			
+5. CS 1300 Section 04			
+Class Nbr	35990	Capacity	35
+Title	Discrete Structures	Units	3
+Time	10:00 AM–11:15 AM   TuTh	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Rodriguez, Edwin	Compnt./Mode	Lecture, Fully Synchronous
+			
+6. CS 1400 Section 01			
+Class Nbr	33026	Capacity	35
+Title	Introduction to Programming and Problem Solving	Units	4
+Time	9:30 AM–10:35 AM   MWF	Building/Room	Bldg 8 Rm 52
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Santana Marin, Ericsson	Compnt./Mode	Lecture, In-Person
+			
+7. CS 1400 Section 02			
+Class Nbr	33062	Capacity	35
+Title	Introduction to Programming and Problem Solving	Units	4
+Time	1:00 PM–2:50 PM   MW	Building/Room	Bldg 8 Rm 52
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Nguyen, Thanh	Compnt./Mode	Lecture, In-Person
+			
+8. CS 1400 Section 03			
+Class Nbr	33063	Capacity	35
+Title	Introduction to Programming and Problem Solving	Units	4
+Time	1:00 PM–2:50 PM   TuTh	Building/Room	Bldg 8 Rm 4
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Diaz, Tony	Compnt./Mode	Lecture, In-Person
+			
+9. CS 1400 Section 04			
+Class Nbr	33064	Capacity	53
+Title	Introduction to Programming and Problem Solving	Units	4
+Time	8:30 AM–9:45 AM   TuTh	Building/Room	Bldg 8 Rm 345
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Maini, Devika	Compnt./Mode	Lecture, In-Person
+			
+10. CS 2400 Section 01			
+Class Nbr	33058	Capacity	35
+Title	Data Structures and Advanced Programming	Units	4
+Time	10:45 AM–11:50 AM   MWF	Building/Room	Bldg 8 Rm 52
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Ji, Hao	Compnt./Mode	Lecture, In-Person
+			
+11. CS 2400 Section 03			
+Class Nbr	33060	Capacity	54
+Title	Data Structures and Advanced Programming	Units	4
+Time	10:00 AM–11:50 AM   TuTh	Building/Room	Bldg 1 Rm 309
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Dong, Qichao	Compnt./Mode	Lecture, In-Person
+			
+12. CS 2400 Section 04			
+Class Nbr	33061	Capacity	54
+Title	Data Structures and Advanced Programming	Units	4
+Time	3:00 PM–4:50 PM   TuTh	Building/Room	Bldg 8 Rm 4
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Dong, Qichao	Compnt./Mode	Lecture, In-Person
+			
+13. CS 2400 Section E03			
+Class Nbr	38548	Capacity	53
+Title	Data Structures and Advanced Programming	Units	4
+Time	10:00 AM–11:50 AM   TuTh	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Open University Session
+Instructor	Dong, Qichao	Compnt./Mode	Lecture, In-Person
+			
+14. CS 2400 Section E04			
+Class Nbr	38549	Capacity	53
+Title	Data Structures and Advanced Programming	Units	4
+Time	3:00 PM–4:50 PM   TuTh	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Open University Session
+Instructor	Dong, Qichao	Compnt./Mode	Lecture, In-Person
+			
+15. CS 2410 Section 01			
+Class Nbr	33065	Capacity	35
+Title	Fundamentals of Data Science	Units	3
+Time	5:30 PM–6:45 PM   TuTh	Building/Room	Bldg 8 Rm 345
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Rezaei Damavandi, Tannaz	Compnt./Mode	Lecture, In-Person
+			
+16. CS 2410 Section E01			
+Class Nbr	38553	Capacity	35
+Title	Fundamentals of Data Science	Units	3
+Time	5:30 PM–6:45 PM   TuTh	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Open University Session
+Instructor	Rezaei Damavandi, Tannaz	Compnt./Mode	Lecture, In-Person
+			
+17. CS 2450 Section 01			
+Class Nbr	33066	Capacity	35
+Title	User Interface Design and Programming	Units	3
+Time	2:30 PM–3:45 PM   MW	Building/Room	Bldg 8 Rm 348
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Steichen, Ben	Compnt./Mode	Lecture, Fully Synchronous
+			
+18. CS 2520 Section 01			
+Class Nbr	33067	Capacity	35
+Title	Python for Programmers	Units	3
+Time	1:00 PM–2:15 PM   MW	Building/Room	Bldg 3 Rm 2636
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Yang, Lan	Compnt./Mode	Lecture, In-Person
+			
+19. CS 2560 Section 01			
+Class Nbr	33068	Capacity	35
+Title	C++ Programming	Units	3
+Time	7:00 PM–8:15 PM   MW	Building/Room	Bldg 8 Rm 345
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Huang, Thomas	Compnt./Mode	Lecture, In-Person
+			
+20. CS 2600 Section 01			
+Class Nbr	33069	Capacity	35
+Title	Systems Programming	Units	3
+Time	5:30 PM–6:45 PM   MW	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Davarpanah, Nima	Compnt./Mode	Lecture, Fully Synchronous
+			
+21. CS 2600 Section 02			
+Class Nbr	33070	Capacity	35
+Title	Systems Programming	Units	3
+Time	7:00 PM–8:15 PM   MW	Building/Room	Bldg 3 Rm 2636
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Atanasio, Dominick	Compnt./Mode	Lecture, In-Person
+			
+22. CS 2600 Section 03			
+Class Nbr	33071	Capacity	53
+Title	Systems Programming	Units	3
+Time	7:00 PM–8:15 PM   TuTh	Building/Room	Bldg 8 Rm 345
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Atanasio, Dominick	Compnt./Mode	Lecture, In-Person
+			
+23. CS 2600 Section 04			
+Class Nbr	33072	Capacity	40
+Title	Systems Programming	Units	3
+Time	5:30 PM–6:45 PM   TuTh	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Gershman, David	Compnt./Mode	Lecture, Fully Synchronous
+			
+24. CS 2610 Section 01			
+Class Nbr	33073	Capacity	35
+Title	Introduction to Cyber Security and Digital Forensics	Units	3
+Time	2:30 PM–3:45 PM   MW	Building/Room	Bldg 3 Rm 2636
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Lecture, In-Person
+			
+25. CS 2640 Section 01			
+Class Nbr	33074	Capacity	34
+Title	Computer Organization and Assembly Programming	Units	3
+Time	9:00 AM–9:50 AM   MWF	Building/Room	Bldg 8 Rm 348
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Nguyen, Thanh	Compnt./Mode	Lecture, In-Person
+			
+26. CS 2640 Section 02			
+Class Nbr	33075	Capacity	53
+Title	Computer Organization and Assembly Programming	Units	3
+Time	10:00 AM–10:50 AM   MWF	Building/Room	Bldg 8 Rm 345
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Lecture, In-Person
+			
+27. CS 2640 Section 03			
+Class Nbr	33076	Capacity	35
+Title	Computer Organization and Assembly Programming	Units	3
+Time	1:00 PM–2:15 PM   TuTh	Building/Room	Bldg 3 Rm 2636
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Nguyen, Thanh	Compnt./Mode	Lecture, In-Person
+			
+28. CS 2640 Section 04			
+Class Nbr	33077	Capacity	53
+Title	Computer Organization and Assembly Programming	Units	3
+Time	2:30 PM–3:45 PM   TuTh	Building/Room	Bldg 8 Rm 345
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Johannsen, David	Compnt./Mode	Lecture, In-Person
+			
+29. CS 3010 Section 01			
+Class Nbr	33078	Capacity	35
+Title	Numerical Methods and Computing	Units	3
+Time	9:00 AM–9:50 AM   MWF	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Rodriguez, Edwin	Compnt./Mode	Lecture, Fully Synchronous
+			
+30. CS 3010 Section 02			
+Class Nbr	33079	Capacity	53
+Title	Numerical Methods and Computing	Units	3
+Time	10:00 AM–10:50 AM   MWF	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Rodriguez, Edwin	Compnt./Mode	Lecture, Fully Synchronous
+			
+31. CS 3010 Section 03			
+Class Nbr	33080	Capacity	34
+Title	Numerical Methods and Computing	Units	3
+Time	10:00 AM–11:15 AM   TuTh	Building/Room	Bldg 8 Rm 348
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Lecture, In-Person
+			
+32. CS 3010 Section 04			
+Class Nbr	35989	Capacity	35
+Title	Numerical Methods and Computing	Units	3
+Time	10:00 AM–11:15 AM   TuTh	Building/Room	Bldg 9 Rm 213
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Navi, Keivan	Compnt./Mode	Lecture, In-Person
+			
+33. CS 3110 Section 01			
+Class Nbr	33081	Capacity	34
+Title	Formal Languages and Automata	Units	3
+Time	11:00 AM–11:50 AM   MWF	Building/Room	Bldg 8 Rm 348
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Diaz, Tony	Compnt./Mode	Lecture, In-Person
+			
+34. CS 3110 Section 02			
+Class Nbr	33082	Capacity	53
+Title	Formal Languages and Automata	Units	3
+Time	1:00 PM–2:15 PM   TuTh	Building/Room	Bldg 8 Rm 345
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Dong, Qichao	Compnt./Mode	Lecture, In-Person
+			
+35. CS 3110 Section 03			
+Class Nbr	33083	Capacity	35
+Title	Formal Languages and Automata	Units	3
+Time	2:30 PM–3:45 PM   TuTh	Building/Room	Bldg 3 Rm 2636
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Eger, Markus	Compnt./Mode	Lecture, In-Person
+			
+36. CS 3310 Section 01			
+Class Nbr	33084	Capacity	53
+Title	Design and Analysis of Algorithms	Units	3
+Time	4:00 PM–5:15 PM   MW	Building/Room	Bldg 8 Rm 4
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Luu, Huong	Compnt./Mode	Lecture, In-Person
+			
+37. CS 3310 Section 02			
+Class Nbr	33085	Capacity	35
+Title	Design and Analysis of Algorithms	Units	3
+Time	5:30 PM–6:45 PM   MW	Building/Room	Bldg 8 Rm 4
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Luu, Huong	Compnt./Mode	Lecture, In-Person
+			
+38. CS 3310 Section 03			
+Class Nbr	33086	Capacity	72
+Title	Design and Analysis of Algorithms	Units	3
+Time	1:00 PM–2:15 PM   TuTh	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Synchronous
+			
+39. CS 3560 Section 01			
+Class Nbr	33087	Capacity	35
+Title	Object-Oriented Design and Programming	Units	3
+Time	2:30 PM–3:45 PM   MW	Building/Room	Bldg 8 Rm 302
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Rezaei Damavandi, Tannaz	Compnt./Mode	Lecture, In-Person
+			
+40. CS 3560 Section 02			
+Class Nbr	33088	Capacity	35
+Title	Object-Oriented Design and Programming	Units	3
+Time	4:00 PM–5:15 PM   TuTh	Building/Room	Bldg 8 Rm 302
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Rezaei Damavandi, Tannaz	Compnt./Mode	Lecture, In-Person
+			
+41. CS 3560 Section 03			
+Class Nbr	33089	Capacity	78
+Title	Object-Oriented Design and Programming	Units	3
+Time	5:30 PM–6:45 PM   TuTh	Building/Room	Bldg 6 Rm 113
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Johannsen, David	Compnt./Mode	Lecture, In-Person
+			
+42. CS 3650 Section 01			
+Class Nbr	33223	Capacity	53
+Title	Computer Architecture	Units	4
+Time	7:00 PM–8:50 PM   MW	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, Fully Synchronous
+			
+43. CS 3650 Section 02			
+Class Nbr	33224	Capacity	35
+Title	Computer Architecture	Units	4
+Time	10:00 AM–11:50 AM   TuTh	Building/Room	Bldg 8 Rm 52
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Yang, Lan	Compnt./Mode	Lecture, In-Person
+			
+44. CS 3650 Section 03			
+Class Nbr	33225	Capacity	35
+Title	Computer Architecture	Units	4
+Time	1:00 PM–2:50 PM   TuTh	Building/Room	Bldg 8 Rm 52
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Yang, Lan	Compnt./Mode	Lecture, In-Person
+			
+45. CS 3750 Section 01			
+Class Nbr	32151	Capacity	72
+Title	Computers and Society	Units	3
+Time	10:00 AM–11:15 AM   TuTh	Building/Room	Bldg 24C Rm 1228
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Eller, Sander	Compnt./Mode	Lecture, In-Person
+			
+46. CS 3750 Section 02			
+Class Nbr	32152	Capacity	72
+Title	Computers and Society	Units	3
+Time	1:00 PM–2:15 PM   TuTh	Building/Room	Bldg 163 Rm 2015
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Eller, Sander	Compnt./Mode	Lecture, In-Person
+			
+47. CS 3750 Section 03			
+Class Nbr	33090	Capacity	35
+Title	Computers and Society	Units	3
+Time	5:30 PM–6:45 PM   MW	Building/Room	Bldg 8 Rm 302
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Ibrahim, Mohamed	Compnt./Mode	Lecture, In-Person
+			
+48. CS 3800 Section 01			
+Class Nbr	33092	Capacity	35
+Title	Computer Networks	Units	3
+Time	1:00 PM–2:15 PM   MW	Building/Room	Bldg 8 Rm 345
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Lecture, In-Person
+			
+49. CS 3800 Section 02			
+Class Nbr	33093	Capacity	48
+Title	Computer Networks	Units	3
+Time	7:00 PM–8:15 PM   TuTh	Building/Room	Bldg 8 Rm 302
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Johannsen, David	Compnt./Mode	Lecture, In-Person
+			
+50. CS 4000 Section 01			
+Class Nbr	41292	Capacity	15
+Title	Special Study for Upper Division Students	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Tang, Fang	Compnt./Mode	Supervision, In-Person
+			
+51. CS 4080 Section 01			
+Class Nbr	33094	Capacity	35
+Title	Concepts of Programming Languages	Units	3
+Time	11:00 AM–11:50 AM   MWF	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Rodriguez, Edwin	Compnt./Mode	Lecture, Fully Synchronous
+			
+52. CS 4080 Section 02			
+Class Nbr	33095	Capacity	35
+Title	Concepts of Programming Languages	Units	3
+Time	12:00 PM–12:50 PM   MWF	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Rodriguez, Edwin	Compnt./Mode	Lecture, Fully Synchronous
+			
+53. CS 4080 Section 03			
+Class Nbr	33096	Capacity	35
+Title	Concepts of Programming Languages	Units	3
+Time	1:00 PM–2:15 PM   TuTh	Building/Room	Bldg 8 Rm 302
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Lecture, In-Person
+			
+54. CS 4200 Section 01			
+Class Nbr	33097	Capacity	35
+Title	Artificial Intelligence	Units	3
+Time	10:00 AM–10:50 AM   MWF	Building/Room	Bldg 3 Rm 2636
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Summerville, Adam	Compnt./Mode	Lecture, In-Person
+			
+55. CS 4250 Section 01			
+Class Nbr	33098	Capacity	36
+Title	Web Search and Recommender Systems	Units	3
+Time	4:00 PM–5:15 PM   MW	Building/Room	Bldg 8 Rm 302
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Steichen, Ben	Compnt./Mode	Lecture, Fully Synchronous
+			
+56. CS 4310 Section 01			
+Class Nbr	33099	Capacity	35
+Title	Operating Systems	Units	3
+Time	4:00 PM–5:15 PM   MW	Building/Room	Bldg 3 Rm 2636
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Rezaei Damavandi, Tannaz	Compnt./Mode	Lecture, In-Person
+			
+57. CS 4310 Section 02			
+Class Nbr	33100	Capacity	35
+Title	Operating Systems	Units	3
+Time	2:30 PM–3:45 PM   TuTh	Building/Room	Bldg 8 Rm 302
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Rezaei Damavandi, Tannaz	Compnt./Mode	Lecture, In-Person
+			
+58. CS 4310 Section 03			
+Class Nbr	33101	Capacity	37
+Title	Operating Systems	Units	3
+Time	7:00 PM–8:15 PM   TuTh	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Gershman, David	Compnt./Mode	Lecture, Fully Synchronous
+			
+59. CS 4350 Section 01			
+Class Nbr	33102	Capacity	53
+Title	Database Systems	Units	3
+Time	2:30 PM–3:45 PM   MW	Building/Room	Bldg 8 Rm 345
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, In-Person
+			
+60. CS 4410 Section 01			
+Class Nbr	35102	Capacity	35
+Title	Internship in Computer Science	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Tang, Fang	Compnt./Mode	Supervision, Fully Synchronous
+			
+61. CS 4410 Section 02			
+Class Nbr	35103	Capacity	30
+Title	Internship in Computer Science	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Tang, Fang	Compnt./Mode	Supervision, Fully Synchronous
+			
+62. CS 4600 Section 01			
+Class Nbr	33103	Capacity	53
+Title	Cryptography and Information Security	Units	3
+Time	10:00 AM–11:15 AM   TuTh	Building/Room	Bldg 8 Rm 4
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Husain, Mohammad	Compnt./Mode	Lecture, In-Person
+			
+63. CS 4610 Section 02			
+Class Nbr	35808	Capacity	1
+Title	Senior Project	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Sun, Yu	Compnt./Mode	Supervision, Fully Synchronous
+			
+64. CS 4610 Section 03			
+Class Nbr	35809	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Supervision, Fully Synchronous
+			
+65. CS 4610 Section 04			
+Class Nbr	35827	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Sun, Yu	Compnt./Mode	Supervision, Fully Synchronous
+			
+66. CS 4610 Section 05			
+Class Nbr	35839	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Yang, Lan	Compnt./Mode	Supervision, Fully Synchronous
+			
+67. CS 4610 Section 06			
+Class Nbr	35850	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Summerville, Adam	Compnt./Mode	Supervision, Fully Synchronous
+			
+68. CS 4610 Section 07			
+Class Nbr	35906	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Supervision, Fully Synchronous
+			
+69. CS 4610 Section 08			
+Class Nbr	35960	Capacity	30
+Title	Senior Project	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Supervision, Fully Synchronous
+			
+70. CS 4610 Section 09			
+Class Nbr	36074	Capacity	20
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Eger, Markus	Compnt./Mode	Supervision, Fully Synchronous
+			
+71. CS 4610 Section 10			
+Class Nbr	36076	Capacity	1
+Title	Senior Project	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Supervision, Fully Synchronous
+			
+72. CS 4610 Section 11			
+Class Nbr	41077	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Santana Marin, Ericsson	Compnt./Mode	Supervision, In-Person
+			
+73. CS 4610 Section 12			
+Class Nbr	41126	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Steichen, Ben	Compnt./Mode	Supervision, In-Person
+			
+74. CS 4610 Section 13			
+Class Nbr	41157	Capacity	1
+Title	Senior Project	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Tang, Fang	Compnt./Mode	Supervision, In-Person
+			
+75. CS 4610 Section 14			
+Class Nbr	41217	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Korah, John	Compnt./Mode	Supervision, In-Person
+			
+76. CS 4610 Section 15			
+Class Nbr	41275	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Husain, Mohammad	Compnt./Mode	Supervision, In-Person
+			
+77. CS 4610 Section 16			
+Class Nbr	41296	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Salloum, Salam	Compnt./Mode	Supervision, In-Person
+			
+78. CS 4610H Section 01			
+Class Nbr	35944	Capacity	1
+Title	Senior Project Honors	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Steichen, Ben	Compnt./Mode	Supervision, Fully Synchronous
+			
+79. CS 4620 Section 01			
+Class Nbr	35824	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Korah, John	Compnt./Mode	Supervision, Fully Synchronous
+			
+80. CS 4620 Section 02			
+Class Nbr	35876	Capacity	2
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Chen, Tingting	Compnt./Mode	Supervision, Fully Synchronous
+			
+81. CS 4620 Section 03			
+Class Nbr	36012	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Eger, Markus	Compnt./Mode	Supervision, Fully Synchronous
+			
+82. CS 4620 Section 04			
+Class Nbr	36075	Capacity	4
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Eger, Markus	Compnt./Mode	Supervision, Fully Synchronous
+			
+83. CS 4620 Section 05			
+Class Nbr	41078	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Santana Marin, Ericsson	Compnt./Mode	Supervision, In-Person
+			
+84. CS 4620 Section 06			
+Class Nbr	41128	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Steichen, Ben	Compnt./Mode	Supervision, In-Person
+			
+85. CS 4620 Section 07			
+Class Nbr	41218	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Supervision, In-Person
+			
+86. CS 4620 Section 09			
+Class Nbr	41302	Capacity	30
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Summerville, Adam	Compnt./Mode	Supervision, In-Person
+			
+87. CS 4620 Section 22			
+Class Nbr	41289	Capacity	5
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Tang, Fang	Compnt./Mode	Supervision, In-Person
+			
+88. CS 4630 Section 01			
+Class Nbr	35298	Capacity	14
+Title	Undergraduate Seminar	Units	1
+Time	1:00 PM–1:50 PM   Tu	Building/Room	Bldg 8 Rm 48
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Chen, Tingting	Compnt./Mode	Seminar, In-Person
+			
+89. CS 4630 Section 02			
+Class Nbr	35299	Capacity	14
+Title	Undergraduate Seminar	Units	1
+Time	1:00 PM–1:50 PM   Th	Building/Room	Bldg 8 Rm 48
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Chen, Tingting	Compnt./Mode	Seminar, In-Person
+			
+90. CS 4630 Section 03			
+Class Nbr	35300	Capacity	14
+Title	Undergraduate Seminar	Units	1
+Time	3:00 PM–3:50 PM   M	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Nguyen, Thanh	Compnt./Mode	Seminar, Fully Synchronous
+			
+91. CS 4630 Section 04			
+Class Nbr	35301	Capacity	14
+Title	Undergraduate Seminar	Units	1
+Time	3:00 PM–3:50 PM   W	Building/Room	Bldg 8 Rm 48
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Ibrahim, Mohamed	Compnt./Mode	Seminar, In-Person
+			
+92. CS 4630 Section 05			
+Class Nbr	35302	Capacity	14
+Title	Undergraduate Seminar	Units	1
+Time	4:00 PM–4:50 PM   M	Building/Room	Bldg 8 Rm 48
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Nguyen, Thanh	Compnt./Mode	Seminar, In-Person
+			
+93. CS 4630 Section 06			
+Class Nbr	35303	Capacity	14
+Title	Undergraduate Seminar	Units	1
+Time	4:00 PM–4:50 PM   W	Building/Room	Bldg 8 Rm 48
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Ibrahim, Mohamed	Compnt./Mode	Seminar, In-Person
+			
+94. CS 4630 Section 07			
+Class Nbr	35304	Capacity	14
+Title	Undergraduate Seminar	Units	1
+Time	2:15 PM–2:55 PM   Tu	Building/Room	Bldg 8 Rm 48
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Dong, Qichao	Compnt./Mode	Seminar, In-Person
+			
+95. CS 4630 Section 09			
+Class Nbr	35838	Capacity	14
+Title	Undergraduate Seminar	Units	1
+Time	3:00 PM–3:50 PM   M	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Ibrahim, Mohamed	Compnt./Mode	Seminar, Fully Synchronous
+			
+96. CS 4650 Section 01			
+Class Nbr	33227	Capacity	62
+Title	Big Data Analytics and Cloud Computing	Units	3
+Time	7:00 PM–8:15 PM   MW	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Davarpanah, Nima	Compnt./Mode	Lecture, Fully Synchronous
+			
+97. CS 4700 Section 01			
+Class Nbr	33104	Capacity	35
+Title	Game Development	Units	3
+Time	9:00 AM–9:50 AM   MWF	Building/Room	Bldg 3 Rm 2636
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Summerville, Adam	Compnt./Mode	Lecture, In-Person
+			
+98. CS 4750 Section 01			
+Class Nbr	33105	Capacity	35
+Title	Mobile Application Development	Units	3
+Time	10:00 AM–11:15 AM   TuTh	Building/Room	Bldg 3 Rm 2636
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Sun, Yu	Compnt./Mode	Lecture, In-Person
+			
+99. CS 4800 Section 01			
+Class Nbr	33106	Capacity	35
+Title	Software Engineering	Units	3
+Time	11:00 AM–11:50 AM   MWF	Building/Room	Bldg 3 Rm 2636
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Santana Marin, Ericsson	Compnt./Mode	Lecture, In-Person
+			
+100. CS 4800 Section 02			
+Class Nbr	33107	Capacity	36
+Title	Software Engineering	Units	3
+Time	8:30 AM–9:45 AM   TuTh	Building/Room	Bldg 8 Rm 302
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Sun, Yu	Compnt./Mode	Lecture, In-Person
+			
+101. CS 4800 Section 03			
+Class Nbr	33108	Capacity	53
+Title	Software Engineering	Units	3
+Time	5:30 PM–6:45 PM   TuTh	Building/Room	Bldg 8 Rm 4
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Zaidi, Hussain	Compnt./Mode	Lecture, In-Person
+			
+102. CS 4990 Section 01			
+Class Nbr	33221	Capacity	35
+Title	Special Topics for Upper Division Students	Units	3
+Time	1:00 PM–2:15 PM   MW	Building/Room	Bldg 8 Rm 302
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Korah, John	Compnt./Mode	Lecture, In-Person
+			
+103. CS 4990 Section 02			
+Class Nbr	33222	Capacity	35
+Title	Special Topics for Upper Division Students	Units	3
+Time	4:00 PM–5:15 PM   TuTh	Building/Room	Bldg 3 Rm 2636
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Eger, Markus	Compnt./Mode	Lecture, In-Person
+			
+104. CS 4990 Section C01			
+Class Nbr	35220	Capacity	30
+Title	Special Topics for Upper Division Students	Units	2
+	Data Structures for Teachers		
+Time	3:30 PM–5:20 PM   Th	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Extension Session
+Instructor	Ji, Hao	Compnt./Mode	Lecture, Fully Synchronous
+			
+105. CS 4990 Section C02			
+Class Nbr	35312	Capacity	30
+Title	Special Topics for Upper Division Students	Units	2
+	Software Engineering for Tchrs		
+Time	3:30 PM–5:20 PM   Tu	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Extension Session
+Instructor	Sun, Yu	Compnt./Mode	Lecture, Fully Synchronous
+			
+106. CS 5170 Section 01			
+Class Nbr	33109	Capacity	28
+Title	Natural Language Processing	Units	3
+Time	2:30 PM–3:45 PM   MW	Building/Room	Bldg 6 Rm 211
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Summerville, Adam	Compnt./Mode	Lecture, In-Person
+			
+107. CS 5190 Section 01			
+Class Nbr	33110	Capacity	25
+Title	Computer Vision	Units	3
+Time	1:00 PM–2:15 PM   MW	Building/Room	Bldg 8 Rm 348
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Ji, Hao	Compnt./Mode	Lecture, In-Person
+			
+108. CS 5250 Section 01			
+Class Nbr	33111	Capacity	31
+Title	Advanced Computer Architecture	Units	3
+Time	4:00 PM–5:15 PM   TuTh	Building/Room	Bldg 8 Rm 345
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Johannsen, David	Compnt./Mode	Lecture, In-Person
+			
+109. CS 5350 Section 01			
+Class Nbr	33112	Capacity	25
+Title	Parallel and Distributed Algorithms	Units	3
+Time	4:00 PM–5:15 PM   TuTh	Building/Room	Bldg 8 Rm 348
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, In-Person
+			
+110. CS 5350 Section E01			
+Class Nbr	38599	Capacity	25
+Title	Parallel and Distributed Algorithms	Units	3
+Time	4:00 PM–5:15 PM   TuTh	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Open University Session
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, In-Person
+			
+111. CS 5750 Section 01			
+Class Nbr	33113	Capacity	25
+Title	Topics in Database Systems	Units	3
+Time	4:00 PM–5:15 PM   MW	Building/Room	Bldg 8 Rm 348
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, In-Person
+			
+112. CS 5990 Section 01			
+Class Nbr	33226	Capacity	25
+Title	Special Topics for Graduate Students	Units	3
+Time	5:30 PM–6:45 PM   MW	Building/Room	Bldg 8 Rm 348
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Korah, John	Compnt./Mode	Lecture, In-Person
+			
+113. CS 5990 Section E01			
+Class Nbr	38701	Capacity	25
+Title	Special Topics for Graduate Students	Units	3
+Time	5:30 PM–6:45 PM   MW	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Open University Session
+Instructor	Korah, John	Compnt./Mode	Lecture, In-Person
+			
+114. CS 6640 Section 01			
+Class Nbr	35306	Capacity	14
+Title	Graduate Seminar	Units	1
+Time	6:00 PM–6:50 PM   Tu	Building/Room	Bldg 8 Rm 48
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Diaz, Tony	Compnt./Mode	Seminar, In-Person
+			
+115. CS 6910 Section 01			
+Class Nbr	35851	Capacity	1
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Chen, Tingting	Compnt./Mode	Supervision, Fully Synchronous
+			
+116. CS 6910 Section 02			
+Class Nbr	35926	Capacity	1
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Young, Gilbert	Compnt./Mode	Supervision, Fully Synchronous
+			
+117. CS 6910 Section 03			
+Class Nbr	35961	Capacity	1
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Santana Marin, Ericsson	Compnt./Mode	Supervision, Fully Synchronous
+			
+118. CS 6910 Section 04			
+Class Nbr	36072	Capacity	1
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Korah, John	Compnt./Mode	Supervision, Fully Synchronous
+			
+119. CS 6910 Section 05			
+Class Nbr	36073	Capacity	1
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Eger, Markus	Compnt./Mode	Supervision, Fully Synchronous
+			
+120. CS 6910 Section 06			
+Class Nbr	41127	Capacity	1
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Supervision, In-Person
+			
+121. CS 6910 Section 07			
+Class Nbr	41206	Capacity	1
+Title	Directed Research	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Eger, Markus	Compnt./Mode	Supervision, In-Person
+			
+122. CS 6910 Section 08			
+Class Nbr	41285	Capacity	1
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Husain, Mohammad	Compnt./Mode	Supervision, In-Person
+			
+123. CS 6910 Section 09			
+Class Nbr	41293	Capacity	1
+Title	Directed Research	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Supervision, In-Person
+			
+124. CS 6910 Section 10			
+Class Nbr	41310	Capacity	1
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Husain, Mohammad	Compnt./Mode	Supervision, In-Person
+			
+125. CS 6950 Section 01			
+Class Nbr	36098	Capacity	1
+Title	Master's Degree Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Supervision, In-Person
+			
+126. CS 6950 Section 02			
+Class Nbr	41076	Capacity	1
+Title	Master's Degree Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Sun, Yu	Compnt./Mode	Supervision, In-Person
+			
+127. CS 6950 Section 03			
+Class Nbr	41079	Capacity	1
+Title	Master's Degree Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Sun, Yu	Compnt./Mode	Supervision, In-Person
+			
+128. CS 6950 Section 04			
+Class Nbr	41125	Capacity	1
+Title	Master's Degree Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Yang, Lan	Compnt./Mode	Supervision, In-Person
+			
+129. CS 6950 Section 05			
+Class Nbr	41134	Capacity	1
+Title	Master's Degree Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Husain, Mohammad	Compnt./Mode	Supervision, In-Person
+			
+130. CS 6950 Section 06			
+Class Nbr	41204	Capacity	1
+Title	Master's Degree Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Korah, John	Compnt./Mode	Supervision, In-Person
+			
+131. CS 6950 Section 07			
+Class Nbr	41205	Capacity	1
+Title	Master's Degree Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Steichen, Ben	Compnt./Mode	Supervision, In-Person
+			
+132. CS 6950 Section 08			
+Class Nbr	41237	Capacity	1
+Title	Master's Degree Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Ji, Hao	Compnt./Mode	Supervision, In-Person
+			
+133. CS 6950 Section 09			
+Class Nbr	41238	Capacity	1
+Title	Master's Degree Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Chen, Tingting	Compnt./Mode	Supervision, In-Person
+			
+134. CS 6950 Section 10			
+Class Nbr	41309	Capacity	1
+Title	Master's Degree Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Young, Gilbert	Compnt./Mode	Supervision, In-Person
+			
+135. CS 6960 Section 01			
+Class Nbr	35964	Capacity	1
+Title	Master's Degree Thesis	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Young, Gilbert	Compnt./Mode	Supervision, Fully Synchronous
+			
+136. CS 6960 Section 02			
+Class Nbr	41135	Capacity	1
+Title	Master's Degree Thesis	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Young, Gilbert	Compnt./Mode	Supervision, In-Person
+			
+137. CS 6960 Section 03			
+Class Nbr	41172	Capacity	1
+Title	Master's Degree Thesis	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Young, Gilbert	Compnt./Mode	Supervision, In-Person
+			
+138. CS 6990 Section 01			
+Class Nbr	35859	Capacity	1
+Title	Master's Degree Continuation	Units	0
+Time	No time set.   TBA	Building/Room	
+Date	2022-01-22 to 2022-05-13	Session	Regular Academic Session
+Instructor	Yang, Lan	Compnt./Mode	Supervision, Fully Synchronous
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			

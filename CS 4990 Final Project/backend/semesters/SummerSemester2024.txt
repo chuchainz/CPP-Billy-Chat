@@ -1,0 +1,245 @@
+Summer Semester 2024			
+1. CS 1300 Section E01			
+Class Nbr	50524	Capacity	25
+Title	Discrete Structures	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-08-02	Session	Open University Session
+Instructor	Staff	Compnt./Mode	Lecture, Fully Asynchronous
+			
+2. CS 1400 Section E01			
+Class Nbr	50475	Capacity	30
+Title	Introduction to Programming and Problem Solving	Units	4
+Time	11:00 AM–1:50 PM   TuTh	Building/Room	
+Date	2024-05-29 to 2024-08-02	Session	Open University Session
+Instructor	Korah, John	Compnt./Mode	Lecture, Fully Synchronous
+			
+3. CS 2400 Section E01			
+Class Nbr	50449	Capacity	30
+Title	Data Structures and Advanced Programming	Units	4
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-06-28	Session	Open University 1st 5wk
+Instructor	Ji, Hao	Compnt./Mode	Lecture, Fully Asynchronous
+			
+4. CS 2520 Section E01			
+Class Nbr	50458	Capacity	30
+Title	Python for Programmers	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-07-03 to 2024-08-02	Session	Open University 2nd 5wk
+Instructor	Yang, Lan	Compnt./Mode	Lecture, Fully Asynchronous
+			
+5. CS 2600 Section E01			
+Class Nbr	50462	Capacity	30
+Title	Systems Programming	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-07-03 to 2024-08-02	Session	Open University 2nd 5wk
+Instructor	Raheja, Amar	Compnt./Mode	Lecture, Fully Asynchronous
+			
+6. CS 2610 Section E01			
+Class Nbr	50444	Capacity	35
+Title	Introduction to Cyber Security and Network Communications	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-06-28	Session	Open University 1st 5wk
+Instructor	Husain, Mohammad	Compnt./Mode	Lecture, Fully Asynchronous
+			
+7. CS 2640 Section E01			
+Class Nbr	50452	Capacity	30
+Title	Computer Organization and Assembly Programming	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-06-28	Session	Open University 1st 5wk
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Lecture, Fully Asynchronous
+			
+8. CS 3010 Section E01			
+Class Nbr	50448	Capacity	22
+Title	Numerical Methods and Computing	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-06-28	Session	Open University 1st 5wk
+Instructor	Raheja, Amar	Compnt./Mode	Lecture, Fully Asynchronous
+			
+9. CS 3010 Section E02			
+Class Nbr	50461	Capacity	30
+Title	Numerical Methods and Computing	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-07-03 to 2024-08-02	Session	Open University 2nd 5wk
+Instructor	Ji, Hao	Compnt./Mode	Lecture, Fully Asynchronous
+			
+10. CS 3110 Section E01			
+Class Nbr	50446	Capacity	22
+Title	Formal Languages and Automata	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-06-28	Session	Open University 1st 5wk
+Instructor	Chen, Tingting	Compnt./Mode	Lecture, Fully Asynchronous
+			
+11. CS 3110 Section E02			
+Class Nbr	50467	Capacity	22
+Title	Formal Languages and Automata	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-07-03 to 2024-08-02	Session	Open University 2nd 5wk
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Asynchronous
+			
+12. CS 3310 Section E01			
+Class Nbr	50450	Capacity	25
+Title	Design and Analysis of Algorithms	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-06-28	Session	Open University 1st 5wk
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Asynchronous
+			
+13. CS 3310 Section E01			
+Class Nbr	50472	Capacity	22
+Title	Design and Analysis of Algorithms	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-07-03 to 2024-08-02	Session	Open University 2nd 5wk
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, Fully Asynchronous
+			
+14. CS 3560 Section E01			
+Class Nbr	50456	Capacity	30
+Title	Object-Oriented Design and Programming	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-06-28	Session	Open University 1st 5wk
+Instructor	Sun, Yu	Compnt./Mode	Lecture, Fully Asynchronous
+			
+15. CS 3650 Section E01			
+Class Nbr	50440	Capacity	22
+Title	Computer Architecture	Units	4
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-06-28	Session	Open University 1st 5wk
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, Fully Asynchronous
+			
+16. CS 3650 Section E02			
+Class Nbr	50465	Capacity	25
+Title	Computer Architecture	Units	4
+Time	No time set.   TBA	Building/Room	
+Date	2024-07-03 to 2024-08-02	Session	Open University 2nd 5wk
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Lecture, Fully Asynchronous
+			
+17. CS 3750 Section 01			
+Class Nbr	50558	Capacity	32
+Title	Computers and Society	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-07-03 to 2024-08-02	Session	Five Week - Second
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Asynchronous
+			
+18. CS 3800 Section E01			
+Class Nbr	50466	Capacity	30
+Title	Computer Networks	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-07-03 to 2024-08-02	Session	Open University 2nd 5wk
+Instructor	Wang, Yunsheng	Compnt./Mode	Lecture, Fully Asynchronous
+			
+19. CS 4080 Section E01			
+Class Nbr	50463	Capacity	30
+Title	Concepts of Programming Languages	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-07-03 to 2024-08-02	Session	Open University 2nd 5wk
+Instructor	Raheja, Amar	Compnt./Mode	Lecture, Fully Asynchronous
+			
+20. CS 4200 Section E01			
+Class Nbr	50454	Capacity	30
+Title	Artificial Intelligence	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-06-28	Session	Open University 1st 5wk
+Instructor	Tang, Fang	Compnt./Mode	Lecture, Fully Asynchronous
+			
+21. CS 4210 Section E01			
+Class Nbr	50460	Capacity	30
+Title	Machine Learning and Its Applications	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-07-03 to 2024-08-02	Session	Open University 2nd 5wk
+Instructor	Ji, Hao	Compnt./Mode	Lecture, Fully Asynchronous
+			
+22. CS 4230 Section E02			
+Class Nbr	50832	Capacity	35
+Title	Social Computing	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-08-02	Session	Open University Session
+Instructor	Korah, John	Compnt./Mode	Lecture, Fully Asynchronous
+			
+23. CS 4250 Section E02			
+Class Nbr	50825	Capacity	25
+Title	Web Search and Recommender Systems	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-07-03 to 2024-08-02	Session	Open University 2nd 5wk
+Instructor	Santana Marin, Ericsson	Compnt./Mode	Lecture, Fully Asynchronous
+			
+24. CS 4310 Section E01			
+Class Nbr	50451	Capacity	30
+Title	Operating Systems	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-06-28	Session	Open University 1st 5wk
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Asynchronous
+			
+25. CS 4350 Section E02			
+Class Nbr	50470	Capacity	30
+Title	Database Systems	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-07-03 to 2024-08-02	Session	Open University 2nd 5wk
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, Fully Asynchronous
+			
+26. CS 4410 Section E01			
+Class Nbr	50806	Capacity	0
+Title	Internship in Computer Science	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-08-02	Session	Open University Session
+Instructor	Tang, Fang	Compnt./Mode	Supervision, Fully Asynchronous
+			
+27. CS 4410 Section E02			
+Class Nbr	50807	Capacity	1
+Title	Internship in Computer Science	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-08-02	Session	Open University Session
+Instructor	Tang, Fang	Compnt./Mode	Supervision, Fully Asynchronous
+			
+28. CS 4600 Section E01			
+Class Nbr	50447	Capacity	30
+Title	Cryptography and Information Security	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-06-28	Session	Open University 1st 5wk
+Instructor	Chen, Tingting	Compnt./Mode	Lecture, Fully Asynchronous
+			
+29. CS 4630 Section E01			
+Class Nbr	50473	Capacity	20
+Title	Undergraduate Seminar	Units	1
+Time	8:00 PM–9:15 PM   Tu	Building/Room	
+Date	2024-05-29 to 2024-08-02	Session	Open University Session
+Instructor	Tang, Fang	Compnt./Mode	Seminar, Fully Synchronous
+			
+30. CS 4630 Section E02			
+Class Nbr	50870	Capacity	0
+Title	Undergraduate Seminar	Units	1
+Time	6:30 PM–7:45 PM   Tu	Building/Room	
+Date	2024-05-29 to 2024-08-02	Session	Open University Session
+Instructor	Staff	Compnt./Mode	Seminar, Fully Synchronous
+			
+31. CS 4650 Section E01			
+Class Nbr	50445	Capacity	30
+Title	Big Data Analytics and Cloud Computing	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-06-28	Session	Open University 1st 5wk
+Instructor	Husain, Mohammad	Compnt./Mode	Lecture, Fully Asynchronous
+			
+32. CS 4750 Section E01			
+Class Nbr	50441	Capacity	30
+Title	Mobile Application Development	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-06-28	Session	Open University 1st 5wk
+Instructor	Sun, Yu	Compnt./Mode	Lecture, Fully Asynchronous
+			
+33. CS 4800 Section E01			
+Class Nbr	50453	Capacity	31
+Title	Software Engineering	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2024-05-29 to 2024-06-28	Session	Open University 1st 5wk
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Lecture, Fully Asynchronous
+			
+34. CS 4990 Section E02			
+Class Nbr	50826	Capacity	25
+Title	Special Topics for Upper Division Students	Units	3
+Time	No time set.   Th	Building/Room	
+Date	2024-07-03 to 2024-08-02	Session	Open University 2nd 5wk
+Instructor	Santana Marin, Ericsson	Compnt./Mode	Lecture, Fully Asynchronous
+			
+35. CS 5250 Section E01			
+Class Nbr	50478	Capacity	20
+Title	Advanced Computer Architecture	Units	3
+Time	2:45 PM–4:50 PM   MW	Building/Room	
+Date	2024-05-29 to 2024-08-02	Session	Open University Session
+Instructor	Staff	Compnt./Mode	Lecture, Fully Synchronous

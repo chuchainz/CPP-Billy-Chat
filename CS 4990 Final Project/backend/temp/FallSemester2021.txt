@@ -1,0 +1,1247 @@
+Fall Semester 2021			
+1. CS 1260 Section 01			
+Class Nbr	73579	Capacity	35
+Title	Python for Beginners	Units	3
+Time	4:00 PM–5:15 PM   M	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Korah, John	Compnt./Mode	Lecture, Fully Synchronous
+			
+2. CS 1280 Section 01			
+Class Nbr	73580	Capacity	35
+Title	Introduction to C++	Units	3
+Time	12:00 PM–12:50 PM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Nguyen, Thanh	Compnt./Mode	Lecture, Fully Synchronous
+			
+3. CS 1300 Section 01			
+Class Nbr	73581	Capacity	35
+Title	Discrete Structures	Units	3
+Time	10:00 AM–10:50 AM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Chen, Tingting	Compnt./Mode	Lecture, Fully Synchronous
+			
+4. CS 1300 Section 02			
+Class Nbr	73582	Capacity	35
+Title	Discrete Structures	Units	3
+Time	2:30 PM–3:45 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Ji, Hao	Compnt./Mode	Lecture, Fully Synchronous
+			
+5. CS 1300 Section 04			
+Class Nbr	73584	Capacity	84
+Title	Discrete Structures	Units	3
+Time	10:00 AM–11:15 AM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Dong, Qichao	Compnt./Mode	Lecture, Fully Synchronous
+			
+6. CS 1300 Section 05			
+Class Nbr	75307	Capacity	74
+Title	Discrete Structures	Units	3
+Time	9:00 AM–9:50 AM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Diaz, Tony	Compnt./Mode	Lecture, Fully Synchronous
+			
+7. CS 1300 Section E05			
+Class Nbr	81081	Capacity	73
+Title	Discrete Structures	Units	3
+Time	9:00 AM–9:50 AM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Open University Session
+Instructor	Diaz, Tony	Compnt./Mode	Lecture, Fully Synchronous
+			
+8. CS 1400 Section 01			
+Class Nbr	73585	Capacity	35
+Title	Introduction to Programming and Problem Solving	Units	4
+Time	10:45 AM–11:50 AM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Diaz, Tony	Compnt./Mode	Lecture, Fully Synchronous
+			
+9. CS 1400 Section 02			
+Class Nbr	73586	Capacity	56
+Title	Introduction to Programming and Problem Solving	Units	4
+Time	1:00 PM–2:50 PM   MW	Building/Room	Bldg 3 Rm 2137
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Korah, John	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+10. CS 1400 Section 03			
+Class Nbr	73587	Capacity	73
+Title	Introduction to Programming and Problem Solving	Units	4
+Time	10:00 AM–11:50 AM   TuTh	Building/Room	Bldg 1 Rm 109
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Johannsen, David	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+11. CS 1400 Section 04			
+Class Nbr	73588	Capacity	58
+Title	Introduction to Programming and Problem Solving	Units	4
+Time	1:00 PM–2:50 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Steichen, Ben	Compnt./Mode	Lecture, Fully Synchronous
+			
+12. CS 1400 Section 05			
+Class Nbr	75308	Capacity	37
+Title	Introduction to Programming and Problem Solving	Units	4
+Time	7:00 PM–8:50 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	George, Riya	Compnt./Mode	Lecture, Fully Synchronous
+			
+13. CS 1400 Section E03			
+Class Nbr	79635	Capacity	73
+Title	Introduction to Programming and Problem Solving	Units	4
+Time	10:00 AM–11:50 AM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Open University Session
+Instructor	Johannsen, David	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+14. CS 1980 Section 01			
+Class Nbr	82284	Capacity	30
+Title	Foreign Study Topics Lower Division	Units	3
+	Open Source Projects		
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Chatfield, Cynthia	Compnt./Mode	Lecture, In-Person
+			
+15. CS 2400 Section 01			
+Class Nbr	73589	Capacity	35
+Title	Data Structures and Advanced Programming	Units	4
+Time	9:30 AM–10:35 AM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Ji, Hao	Compnt./Mode	Lecture, Fully Synchronous
+			
+16. CS 2400 Section 02			
+Class Nbr	73590	Capacity	35
+Title	Data Structures and Advanced Programming	Units	4
+Time	10:45 AM–11:50 AM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Ji, Hao	Compnt./Mode	Lecture, Fully Synchronous
+			
+17. CS 2400 Section 03			
+Class Nbr	73591	Capacity	35
+Title	Data Structures and Advanced Programming	Units	4
+Time	10:00 AM–11:50 AM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Summerville, Adam	Compnt./Mode	Lecture, Fully Synchronous
+			
+18. CS 2400 Section 04			
+Class Nbr	73592	Capacity	55
+Title	Data Structures and Advanced Programming	Units	4
+Time	1:00 PM–2:50 PM   TuTh	Building/Room	Bldg 8 Rm 4
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Dong, Qichao	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+19. CS 2410 Section 01			
+Class Nbr	73594	Capacity	35
+Title	Fundamentals of Data Science	Units	3
+Time	1:00 PM–2:15 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Yang, Lan	Compnt./Mode	Lecture, Fully Synchronous
+			
+20. CS 2450 Section 01			
+Class Nbr	73595	Capacity	35
+Title	User Interface Design and Programming	Units	3
+Time	11:00 AM–11:50 AM   MWF	Building/Room	Bldg 8 Rm 345
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Nguyen, Thanh	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+21. CS 2520 Section 01			
+Class Nbr	73596	Capacity	75
+Title	Python for Programmers	Units	3
+Time	4:00 PM–5:15 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Maini, Devika	Compnt./Mode	Lecture, Fully Synchronous
+			
+22. CS 2560 Section 01			
+Class Nbr	73598	Capacity	35
+Title	C++ Programming	Units	3
+Time	9:00 AM–9:50 AM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Nguyen, Thanh	Compnt./Mode	Lecture, Fully Synchronous
+			
+23. CS 2600 Section 01			
+Class Nbr	73599	Capacity	61
+Title	Systems Programming	Units	3
+Time	11:30 AM–12:45 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Wang, Sen	Compnt./Mode	Lecture, Fully Synchronous
+			
+24. CS 2600 Section 02			
+Class Nbr	73600	Capacity	35
+Title	Systems Programming	Units	3
+Time	5:30 PM–6:45 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Davarpanah, Nima	Compnt./Mode	Lecture, Fully Synchronous
+			
+25. CS 2600 Section 03			
+Class Nbr	73601	Capacity	35
+Title	Systems Programming	Units	3
+Time	7:00 PM–8:15 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Gershman, David	Compnt./Mode	Lecture, Fully Synchronous
+			
+26. CS 2600 Section 04			
+Class Nbr	75309	Capacity	55
+Title	Systems Programming	Units	3
+Time	5:30 PM–6:45 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Davarpanah, Nima	Compnt./Mode	Lecture, Fully Synchronous
+			
+27. CS 2640 Section 01			
+Class Nbr	73607	Capacity	35
+Title	Computer Organization and Assembly Programming	Units	3
+Time	9:00 AM–9:50 AM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Rodriguez, Edwin	Compnt./Mode	Lecture, Fully Synchronous
+			
+28. CS 2640 Section 02			
+Class Nbr	73608	Capacity	35
+Title	Computer Organization and Assembly Programming	Units	3
+Time	10:00 AM–10:50 AM   MWF	Building/Room	Bldg 8 Rm 345
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Nguyen, Thanh	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+29. CS 2640 Section 03			
+Class Nbr	73609	Capacity	35
+Title	Computer Organization and Assembly Programming	Units	3
+Time	2:30 PM–3:45 PM   TuTh	Building/Room	Bldg 6 Rm 211
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Johannsen, David	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+30. CS 2640 Section 04			
+Class Nbr	75310	Capacity	35
+Title	Computer Organization and Assembly Programming	Units	3
+Time	4:00 PM–5:15 PM   TuTh	Building/Room	Bldg 8 Rm 345
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Johannsen, David	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+31. CS 2990 Section 01			
+Class Nbr	75311	Capacity	36
+Title	Special Topics for Lower Division Students	Units	3
+Time	5:30 PM–6:45 PM   TuTh	Building/Room	Bldg 8 Rm 345
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Johannsen, David	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+32. CS 3010 Section 01			
+Class Nbr	73610	Capacity	35
+Title	Numerical Methods and Computing	Units	3
+Time	1:00 PM–2:15 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Raheja, Lajpat Rai	Compnt./Mode	Lecture, Fully Synchronous
+			
+33. CS 3010 Section 02			
+Class Nbr	73611	Capacity	35
+Title	Numerical Methods and Computing	Units	3
+Time	2:30 PM–3:45 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Raheja, Lajpat Rai	Compnt./Mode	Lecture, Fully Synchronous
+			
+34. CS 3010 Section 03			
+Class Nbr	73612	Capacity	35
+Title	Numerical Methods and Computing	Units	3
+Time	10:00 AM–11:15 AM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Raheja, Lajpat Rai	Compnt./Mode	Lecture, Fully Synchronous
+			
+35. CS 3110 Section 01			
+Class Nbr	73613	Capacity	75
+Title	Formal Languages and Automata	Units	3
+Time	9:00 AM–9:50 AM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Chen, Tingting	Compnt./Mode	Lecture, Fully Synchronous
+			
+36. CS 3110 Section 02			
+Class Nbr	73614	Capacity	37
+Title	Formal Languages and Automata	Units	3
+Time	2:30 PM–3:45 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Diaz, Tony	Compnt./Mode	Lecture, Fully Synchronous
+			
+37. CS 3110 Section E02			
+Class Nbr	79659	Capacity	35
+Title	Formal Languages and Automata	Units	3
+Time	2:30 PM–3:45 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Open University Session
+Instructor	Diaz, Tony	Compnt./Mode	Lecture, Fully Synchronous
+			
+38. CS 3310 Section 01			
+Class Nbr	73615	Capacity	35
+Title	Design and Analysis of Algorithms	Units	3
+Time	1:00 PM–2:15 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Rezaei Damavandi, Tannaz	Compnt./Mode	Lecture, Fully Synchronous
+			
+39. CS 3310 Section 02			
+Class Nbr	73616	Capacity	75
+Title	Design and Analysis of Algorithms	Units	3
+Time	2:30 PM–3:45 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Synchronous
+			
+40. CS 3310 Section 03			
+Class Nbr	76273	Capacity	37
+Title	Design and Analysis of Algorithms	Units	3
+Time	2:30 PM–3:45 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Luu, Huong	Compnt./Mode	Lecture, Fully Synchronous
+			
+41. CS 3310 Section E01			
+Class Nbr	79660	Capacity	35
+Title	Design and Analysis of Algorithms	Units	3
+Time	1:00 PM–2:15 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Open University Session
+Instructor	Rezaei Damavandi, Tannaz	Compnt./Mode	Lecture, Fully Synchronous
+			
+42. CS 3310 Section E02			
+Class Nbr	79661	Capacity	75
+Title	Design and Analysis of Algorithms	Units	3
+Time	2:30 PM–3:45 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Open University Session
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Synchronous
+			
+43. CS 3520 Section 01			
+Class Nbr	75348	Capacity	35
+Title	Symbolic Programming	Units	3
+Time	5:30 PM–6:45 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Rodriguez, Edwin	Compnt./Mode	Lecture, Fully Synchronous
+			
+44. CS 3560 Section 01			
+Class Nbr	73617	Capacity	35
+Title	Object-Oriented Design and Programming	Units	3
+Time	4:00 PM–5:15 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Rezaei Damavandi, Tannaz	Compnt./Mode	Lecture, Fully Synchronous
+			
+45. CS 3560 Section 02			
+Class Nbr	73618	Capacity	35
+Title	Object-Oriented Design and Programming	Units	3
+Time	4:00 PM–5:15 PM   TuTh	Building/Room	Bldg 8 Rm 4
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Rezaei Damavandi, Tannaz	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+46. CS 3560 Section 03			
+Class Nbr	73619	Capacity	35
+Title	Object-Oriented Design and Programming	Units	3
+Time	1:00 PM–2:15 PM   TuTh	Building/Room	Bldg 8 Rm 348
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Rezaei Damavandi, Tannaz	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+47. CS 3650 Section 01			
+Class Nbr	73622	Capacity	35
+Title	Computer Architecture	Units	4
+Time	1:00 PM–2:50 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Lecture, Fully Synchronous
+			
+48. CS 3650 Section 02			
+Class Nbr	73623	Capacity	35
+Title	Computer Architecture	Units	4
+Time	3:00 PM–4:50 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Lecture, Fully Synchronous
+			
+49. CS 3650 Section 03			
+Class Nbr	73624	Capacity	55
+Title	Computer Architecture	Units	4
+Time	3:00 PM–4:50 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, Fully Synchronous
+			
+50. CS 3650 Section E03			
+Class Nbr	79669	Capacity	55
+Title	Computer Architecture	Units	4
+Time	3:00 PM–4:50 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Open University Session
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, Fully Synchronous
+			
+51. CS 3700 Section 01			
+Class Nbr	73626	Capacity	35
+Title	Parallel Processing	Units	3
+Time	7:00 PM–8:15 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Huang, Thomas	Compnt./Mode	Lecture, Fully Synchronous
+			
+52. CS 3750 Section 01			
+Class Nbr	73628	Capacity	84
+Title	Computers and Society	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Eller, Sander	Compnt./Mode	Lecture, Fully Asynchronous
+			
+53. CS 3750 Section 02			
+Class Nbr	73629	Capacity	84
+Title	Computers and Society	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Eller, Sander	Compnt./Mode	Lecture, Fully Asynchronous
+			
+54. CS 3750 Section 03			
+Class Nbr	73630	Capacity	37
+Title	Computers and Society	Units	3
+Time	2:30 PM–3:45 PM   TuTh	Building/Room	Bldg 5 Rm 255
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Maini, Devika	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+55. CS 3750 Section 04			
+Class Nbr	73631	Capacity	37
+Title	Computers and Society	Units	3
+Time	1:00 PM–2:15 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Ibrahim, Mohamed	Compnt./Mode	Lecture, Fully Synchronous
+			
+56. CS 3750 Section 05			
+Class Nbr	73632	Capacity	37
+Title	Computers and Society	Units	3
+Time	2:30 PM–3:45 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Ibrahim, Mohamed	Compnt./Mode	Lecture, Fully Synchronous
+			
+57. CS 3800 Section 01			
+Class Nbr	73633	Capacity	35
+Title	Computer Networks	Units	3
+Time	5:30 PM–6:45 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Gershman, David	Compnt./Mode	Lecture, Fully Synchronous
+			
+58. CS 3800 Section 03			
+Class Nbr	75312	Capacity	36
+Title	Computer Networks	Units	3
+Time	12:00 PM–12:50 PM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Rodriguez, Edwin	Compnt./Mode	Lecture, Fully Synchronous
+			
+59. CS 3980 Section 01			
+Class Nbr	82285	Capacity	30
+Title	Foreign Study Topics UD Studies	Units	3
+	Compiler Design		
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Chatfield, Cynthia	Compnt./Mode	Lecture, In-Person
+			
+60. CS 3980 Section 02			
+Class Nbr	82286	Capacity	30
+Title	Foreign Study Topics UD Studies	Units	3
+	Computer Networks		
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Chatfield, Cynthia	Compnt./Mode	Lecture, In-Person
+			
+61. CS 4080 Section 01			
+Class Nbr	73635	Capacity	35
+Title	Concepts of Programming Languages	Units	3
+Time	1:00 PM–2:15 PM   MW	Building/Room	Bldg 8 Rm 345
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+62. CS 4080 Section 02			
+Class Nbr	73636	Capacity	35
+Title	Concepts of Programming Languages	Units	3
+Time	2:30 PM–3:45 PM   TuTh	Building/Room	Bldg 8 Rm 345
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Yang, Lan	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+63. CS 4080 Section 03			
+Class Nbr	73637	Capacity	35
+Title	Concepts of Programming Languages	Units	3
+Time	10:00 AM–11:15 AM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Yang, Lan	Compnt./Mode	Lecture, Fully Synchronous
+			
+64. CS 4200 Section 01			
+Class Nbr	73638	Capacity	35
+Title	Artificial Intelligence	Units	3
+Time	5:30 PM–6:45 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Zaidi, Hussain	Compnt./Mode	Lecture, Fully Synchronous
+			
+65. CS 4200 Section 02			
+Class Nbr	73639	Capacity	35
+Title	Artificial Intelligence	Units	3
+Time	2:30 PM–3:45 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Summerville, Adam	Compnt./Mode	Lecture, Fully Synchronous
+			
+66. CS 4210 Section 01			
+Class Nbr	73641	Capacity	38
+Title	Machine Learning and Its Applications	Units	3
+Time	2:30 PM–3:45 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Santana Marin, Ericsson	Compnt./Mode	Lecture, Fully Synchronous
+			
+67. CS 4210 Section E01			
+Class Nbr	79684	Capacity	35
+Title	Machine Learning and Its Applications	Units	3
+Time	2:30 PM–3:45 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Open University Session
+Instructor	Santana Marin, Ericsson	Compnt./Mode	Lecture, Fully Synchronous
+			
+68. CS 4250 Section 01			
+Class Nbr	73643	Capacity	55
+Title	Web Search and Recommender Systems	Units	3
+Time	4:00 PM–5:15 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Steichen, Ben	Compnt./Mode	Lecture, Fully Synchronous
+			
+69. CS 4310 Section 01			
+Class Nbr	73644	Capacity	35
+Title	Operating Systems	Units	3
+Time	10:00 AM–10:50 AM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Rodriguez, Edwin	Compnt./Mode	Lecture, Fully Synchronous
+			
+70. CS 4310 Section 02			
+Class Nbr	73645	Capacity	35
+Title	Operating Systems	Units	3
+Time	4:00 PM–5:15 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Dong, Qichao	Compnt./Mode	Lecture, Fully Synchronous
+			
+71. CS 4310 Section 03			
+Class Nbr	73646	Capacity	35
+Title	Operating Systems	Units	3
+Time	11:00 AM–11:50 AM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Rodriguez, Edwin	Compnt./Mode	Lecture, Fully Synchronous
+			
+72. CS 4310 Section E02			
+Class Nbr	79688	Capacity	35
+Title	Operating Systems	Units	3
+Time	4:00 PM–5:15 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Open University Session
+Instructor	Dong, Qichao	Compnt./Mode	Lecture, Fully Synchronous
+			
+73. CS 4350 Section 01			
+Class Nbr	73647	Capacity	57
+Title	Database Systems	Units	3
+Time	1:00 PM–2:15 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, Fully Synchronous
+			
+74. CS 4410 Section 01			
+Class Nbr	76265	Capacity	30
+Title	Internship in Computer Science	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Tang, Fang	Compnt./Mode	Supervision, Fully Asynchronous
+			
+75. CS 4410 Section 02			
+Class Nbr	76290	Capacity	1
+Title	Internship in Computer Science	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Tang, Fang	Compnt./Mode	Supervision, Fully Asynchronous
+			
+76. CS 4450 Section 01			
+Class Nbr	73648	Capacity	35
+Title	Computer Graphics	Units	3
+Time	12:00 PM–12:50 PM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Diaz, Tony	Compnt./Mode	Lecture, Fully Synchronous
+			
+77. CS 4450 Section E01			
+Class Nbr	79691	Capacity	35
+Title	Computer Graphics	Units	3
+Time	12:00 PM–12:50 PM   MWF	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Open University Session
+Instructor	Diaz, Tony	Compnt./Mode	Lecture, Fully Synchronous
+			
+78. CS 4600 Section 01			
+Class Nbr	73649	Capacity	35
+Title	Cryptography and Information Security	Units	3
+Time	5:30 PM–6:45 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Lecture, Fully Synchronous
+			
+79. CS 4610 Section 00			
+Class Nbr	75851	Capacity	6
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Korah, John	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+80. CS 4610 Section 02			
+Class Nbr	75844	Capacity	6
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Summerville, Adam	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+81. CS 4610 Section 03			
+Class Nbr	75845	Capacity	6
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+82. CS 4610 Section 04			
+Class Nbr	75846	Capacity	6
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Steichen, Ben	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+83. CS 4610 Section 05			
+Class Nbr	75847	Capacity	6
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Tang, Fang	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+84. CS 4610 Section 08			
+Class Nbr	75850	Capacity	6
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Ji, Hao	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+85. CS 4610 Section 10			
+Class Nbr	75852	Capacity	6
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Yang, Lan	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+86. CS 4610 Section 11			
+Class Nbr	75853	Capacity	6
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Eger, Markus	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+87. CS 4610 Section 15			
+Class Nbr	75857	Capacity	6
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Sun, Yu	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+88. CS 4610 Section 16			
+Class Nbr	76613	Capacity	30
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Chen, Tingting	Compnt./Mode	Supervision, In-Person
+			
+89. CS 4610H Section 01			
+Class Nbr	76531	Capacity	30
+Title	Senior Project Honors	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Eger, Markus	Compnt./Mode	Supervision, Fully Asynchronous
+			
+90. CS 4610H Section 02			
+Class Nbr	76532	Capacity	30
+Title	Senior Project Honors	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Supervision, In-Person
+			
+91. CS 4620 Section 01			
+Class Nbr	76254	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Chen, Tingting	Compnt./Mode	Supervision, In-Person
+			
+92. CS 4620 Section 02			
+Class Nbr	82116	Capacity	2
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Korah, John	Compnt./Mode	Supervision, Hybrid Asynchronous Component
+			
+93. CS 4620 Section 03			
+Class Nbr	82124	Capacity	1
+Title	Senior Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Steichen, Ben	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+94. CS 4630 Section 01			
+Class Nbr	73650	Capacity	14
+Title	Undergraduate Seminar	Units	1
+Time	1:00 PM–1:50 PM   F	Building/Room	Bldg 8 Rm 48
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Chen, Tingting	Compnt./Mode	Seminar, Hybrid Synchronous Component
+			
+95. CS 4630 Section 02			
+Class Nbr	73651	Capacity	14
+Title	Undergraduate Seminar	Units	1
+Time	1:00 PM–1:50 PM   W	Building/Room	Bldg 8 Rm 48
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Yang, Lan	Compnt./Mode	Seminar, Hybrid Synchronous Component
+			
+96. CS 4630 Section 03			
+Class Nbr	73652	Capacity	14
+Title	Undergraduate Seminar	Units	1
+Time	1:00 PM–1:50 PM   Tu	Building/Room	Bldg 8 Rm 48
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Luu, Huong	Compnt./Mode	Seminar, Hybrid Synchronous Component
+			
+97. CS 4630 Section 04			
+Class Nbr	73653	Capacity	14
+Title	Undergraduate Seminar	Units	1
+Time	3:00 PM–3:50 PM   Tu	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Dong, Qichao	Compnt./Mode	Seminar, Fully Synchronous
+			
+98. CS 4630 Section 05			
+Class Nbr	73654	Capacity	14
+Title	Undergraduate Seminar	Units	1
+Time	1:00 PM–1:50 PM   M	Building/Room	Bldg 8 Rm 48
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Ji, Hao	Compnt./Mode	Seminar, Hybrid Synchronous Component
+			
+99. CS 4630 Section 06			
+Class Nbr	73655	Capacity	14
+Title	Undergraduate Seminar	Units	1
+Time	1:00 PM–1:50 PM   W	Building/Room	Bldg 8 Rm 52
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Nguyen, Thanh	Compnt./Mode	Seminar, Hybrid Synchronous Component
+			
+100. CS 4650 Section 01			
+Class Nbr	73658	Capacity	35
+Title	Big Data Analytics and Cloud Computing	Units	3
+Time	7:00 PM–8:15 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Davarpanah, Nima	Compnt./Mode	Lecture, Fully Synchronous
+			
+101. CS 4700 Section 01			
+Class Nbr	73659	Capacity	36
+Title	Game Development	Units	3
+Time	4:00 PM–5:15 PM   MW	Building/Room	Bldg 6 Rm 113
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Eger, Markus	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+102. CS 4700 Section 02			
+Class Nbr	73660	Capacity	35
+Title	Game Development	Units	3
+Time	1:00 PM–2:15 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Summerville, Adam	Compnt./Mode	Lecture, Fully Synchronous
+			
+103. CS 4700 Section E01			
+Class Nbr	79700	Capacity	35
+Title	Game Development	Units	3
+Time	4:00 PM–5:15 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Open University Session
+Instructor	Eger, Markus	Compnt./Mode	Lecture, Hybrid Synchronous Component
+			
+104. CS 4750 Section 01			
+Class Nbr	73661	Capacity	75
+Title	Mobile Application Development	Units	3
+Time	1:00 PM–2:15 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Sun, Yu	Compnt./Mode	Lecture, Fully Synchronous
+			
+105. CS 4800 Section 01			
+Class Nbr	73662	Capacity	35
+Title	Software Engineering	Units	3
+Time	7:00 PM–8:15 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Zaidi, Hussain	Compnt./Mode	Lecture, Fully Synchronous
+			
+106. CS 4800 Section 02			
+Class Nbr	73663	Capacity	75
+Title	Software Engineering	Units	3
+Time	10:00 AM–11:15 AM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Sun, Yu	Compnt./Mode	Lecture, Fully Synchronous
+			
+107. CS 4990 Section 01			
+Class Nbr	73664	Capacity	35
+Title	Special Topics for Upper Division Students	Units	3
+Time	10:00 AM–11:15 AM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Husain, Mohammad	Compnt./Mode	Lecture, Fully Synchronous
+			
+108. CS 4990 Section C01			
+Class Nbr	76492	Capacity	30
+Title	Special Topics for Upper Division Students	Units	3
+	Computer Systems and Networks		
+Time	4:00 PM–5:15 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Extension Session
+Instructor	Husain, Mohammad	Compnt./Mode	Lecture, Fully Synchronous
+			
+109. CS 4990 Section C02			
+Class Nbr	76509	Capacity	30
+Title	Special Topics for Upper Division Students	Units	3
+	Python Programming for Tchrs		
+Time	6:00 PM–7:15 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Extension Session
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Synchronous
+			
+110. CS 5000 Section 01			
+Class Nbr	76291	Capacity	10
+Title	Special Study for Graduate Students	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Husain, Mohammad	Compnt./Mode	Supervision, Hybrid Asynchronous Component
+			
+111. CS 5300 Section 01			
+Class Nbr	73669	Capacity	33
+Title	Advanced Algorithm Design and Analysis	Units	3
+Time	4:00 PM–5:15 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Synchronous
+			
+112. CS 5550 Section 01			
+Class Nbr	73668	Capacity	25
+Title	Digital Image Processing	Units	3
+Time	2:30 PM–3:45 PM   TuTh	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Lecture, Fully Synchronous
+			
+113. CS 5800 Section 01			
+Class Nbr	73666	Capacity	35
+Title	Advanced Software Engineering	Units	3
+Time	4:00 PM–5:15 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Santana Marin, Ericsson	Compnt./Mode	Lecture, Fully Synchronous
+			
+114. CS 5860 Section 01			
+Class Nbr	73665	Capacity	27
+Title	Software Metrics and Models	Units	3
+Time	1:00 PM–2:15 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, Fully Synchronous
+			
+115. CS 5990 Section 01			
+Class Nbr	73667	Capacity	27
+Title	Special Topics for Graduate Students	Units	3
+Time	5:30 PM–6:45 PM   MW	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Eger, Markus	Compnt./Mode	Lecture, Fully Synchronous
+			
+116. CS 6640 Section 01			
+Class Nbr	73670	Capacity	14
+Title	Graduate Seminar	Units	1
+Time	1:00 PM–1:50 PM   Tu	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Young, Gilbert	Compnt./Mode	Seminar, Fully Synchronous
+			
+117. CS 6910 Section 01			
+Class Nbr	75858	Capacity	30
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Chen, Tingting	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+118. CS 6910 Section 03			
+Class Nbr	75860	Capacity	30
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+119. CS 6910 Section 07			
+Class Nbr	75864	Capacity	30
+Title	Directed Research	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Young, Gilbert	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+120. CS 6910 Section 08			
+Class Nbr	82241	Capacity	1
+Title	Directed Research	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Supervision, In-Person
+			
+121. CS 6910 Section 09			
+Class Nbr	75866	Capacity	30
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Korah, John	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+122. CS 6910 Section 11			
+Class Nbr	75868	Capacity	30
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Yang, Lan	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+123. CS 6910 Section 12			
+Class Nbr	75869	Capacity	30
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Husain, Mohammad	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+124. CS 6910 Section 15			
+Class Nbr	75872	Capacity	30
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Sun, Yu	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+125. CS 6910 Section 16			
+Class Nbr	75865	Capacity	30
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Ji, Hao	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+126. CS 6910 Section 17			
+Class Nbr	82102	Capacity	1
+Title	Directed Research	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Young, Gilbert	Compnt./Mode	Supervision, Fully Synchronous
+			
+127. CS 6950 Section 03			
+Class Nbr	75896	Capacity	1
+Title	Master's Degree Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Raheja, Amar	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+128. CS 6950 Section 04			
+Class Nbr	75897	Capacity	1
+Title	Master's Degree Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Steichen, Ben	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+129. CS 6950 Section 10			
+Class Nbr	75903	Capacity	1
+Title	Master's Degree Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Yang, Lan	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+130. CS 6950 Section 15			
+Class Nbr	75908	Capacity	2
+Title	Master's Degree Project	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Sun, Yu	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+131. CS 6960 Section 02			
+Class Nbr	75874	Capacity	1
+Title	Master's Degree Thesis	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Summerville, Adam	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+132. CS 6960 Section 04			
+Class Nbr	75876	Capacity	1
+Title	Master's Degree Thesis	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Steichen, Ben	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+133. CS 6960 Section 07			
+Class Nbr	75879	Capacity	1
+Title	Master's Degree Thesis	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Young, Gilbert	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+134. CS 6960 Section 15			
+Class Nbr	75887	Capacity	1
+Title	Master's Degree Thesis	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Sun, Yu	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+135. CS 6960 Section 16			
+Class Nbr	82107	Capacity	1
+Title	Master's Degree Thesis	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-08-19 to 2021-12-05	Session	Regular Academic Session
+Instructor	Young, Gilbert	Compnt./Mode	Supervision, Hybrid Synchronous Component
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			

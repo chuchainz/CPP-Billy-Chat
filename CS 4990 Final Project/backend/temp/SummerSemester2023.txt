@@ -1,0 +1,1247 @@
+Summer Semester 2023			
+1. CS 1300 Section E02			
+Class Nbr	50825	Capacity	30
+Title	Discrete Structures	Units	3
+Time	12:30 PM–4:45 PM   TuTh	Building/Room	
+Date	2023-07-06 to 2023-08-04	Session	Open University 2nd 5wk
+Instructor	Dong, Qichao	Compnt./Mode	Lecture, Fully Synchronous
+			
+2. CS 2400 Section E01			
+Class Nbr	50414	Capacity	32
+Title	Data Structures and Advanced Programming	Units	4
+Time	No time set.   TBA	Building/Room	
+Date	2023-05-31 to 2023-06-30	Session	Open University 1st 5wk
+Instructor	Ji, Hao	Compnt./Mode	Lecture, Fully Asynchronous
+			
+3. CS 2400 Section E02			
+Class Nbr	50848	Capacity	30
+Title	Data Structures and Advanced Programming	Units	4
+Time	No time set.   TBA	Building/Room	
+Date	2023-05-31 to 2023-08-04	Session	Open University Session
+Instructor	Ji, Hao	Compnt./Mode	Lecture, Fully Asynchronous
+			
+4. CS 2450 Section E01			
+Class Nbr	50416	Capacity	30
+Title	User Interface Design and Programming	Units	3
+Time	12:30 PM–2:35 PM   MW	Building/Room	Bldg 8 Rm 52
+Date	2023-05-31 to 2023-08-04	Session	Open University Session
+Instructor	Santana Marin, Ericsson	Compnt./Mode	Lecture, In-Person
+			
+5. CS 2520 Section E02			
+Class Nbr	50847	Capacity	30
+Title	Python for Programmers	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-07-06 to 2023-08-04	Session	Open University 2nd 5wk
+Instructor	Yang, Lan	Compnt./Mode	Lecture, Fully Asynchronous
+			
+6. CS 2600 Section E01			
+Class Nbr	50418	Capacity	35
+Title	Systems Programming	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-07-06 to 2023-08-04	Session	Open University 2nd 5wk
+Instructor	Raheja, Amar	Compnt./Mode	Lecture, Fully Asynchronous
+			
+7. CS 2640 Section E01			
+Class Nbr	50420	Capacity	30
+Title	Computer Organization and Assembly Programming	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-07-06 to 2023-08-04	Session	Open University 2nd 5wk
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Lecture, Fully Asynchronous
+			
+8. CS 3010 Section E01			
+Class Nbr	50421	Capacity	35
+Title	Numerical Methods and Computing	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-05-31 to 2023-06-30	Session	Open University 1st 5wk
+Instructor	Raheja, Amar	Compnt./Mode	Lecture, Fully Asynchronous
+			
+9. CS 3110 Section E01			
+Class Nbr	50422	Capacity	30
+Title	Formal Languages and Automata	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-05-31 to 2023-06-30	Session	Open University 1st 5wk
+Instructor	Chen, Tingting	Compnt./Mode	Lecture, Fully Asynchronous
+			
+10. CS 3110 Section E03			
+Class Nbr	50826	Capacity	30
+Title	Formal Languages and Automata	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-07-06 to 2023-08-04	Session	Open University 2nd 5wk
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Asynchronous
+			
+11. CS 3310 Section E01			
+Class Nbr	50423	Capacity	30
+Title	Design and Analysis of Algorithms	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-05-31 to 2023-08-04	Session	Open University Session
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, Fully Asynchronous
+			
+12. CS 3560 Section E01			
+Class Nbr	50425	Capacity	30
+Title	Object-Oriented Design and Programming	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-05-31 to 2023-06-30	Session	Open University 1st 5wk
+Instructor	Sun, Yu	Compnt./Mode	Lecture, Fully Asynchronous
+			
+13. CS 3560 Section E02			
+Class Nbr	50699	Capacity	22
+Title	Object-Oriented Design and Programming	Units	3
+Time	2:45 PM–4:50 PM   MW	Building/Room	Bldg 3 Rm 2636
+Date	2023-05-31 to 2023-08-04	Session	Open University Session
+Instructor	Santana Marin, Ericsson	Compnt./Mode	Lecture, In-Person
+			
+14. CS 3650 Section E01			
+Class Nbr	50426	Capacity	30
+Title	Computer Architecture	Units	4
+Time	No time set.   TBA	Building/Room	
+Date	2023-05-31 to 2023-06-30	Session	Open University 1st 5wk
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, Fully Asynchronous
+			
+15. CS 3650 Section E02			
+Class Nbr	50855	Capacity	30
+Title	Computer Architecture	Units	4
+Time	No time set.   TBA	Building/Room	
+Date	2023-05-31 to 2023-08-04	Session	Open University Session
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Lecture, Fully Asynchronous
+			
+16. CS 3750 Section E01			
+Class Nbr	50697	Capacity	35
+Title	Computers and Society	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-05-31 to 2023-06-30	Session	Open University 1st 5wk
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Asynchronous
+			
+17. CS 3800 Section E01			
+Class Nbr	50429	Capacity	30
+Title	Computer Networks	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-07-06 to 2023-08-04	Session	Open University 2nd 5wk
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Asynchronous
+			
+18. CS 4080 Section E01			
+Class Nbr	50430	Capacity	30
+Title	Concepts of Programming Languages	Units	3
+Time	12:30 PM–4:45 PM   TuTh	Building/Room	
+Date	2023-05-31 to 2023-06-30	Session	Open University 1st 5wk
+Instructor	Raheja, Amar	Compnt./Mode	Lecture, Fully Synchronous
+			
+19. CS 4080 Section E02			
+Class Nbr	50431	Capacity	30
+Title	Concepts of Programming Languages	Units	3
+Time	8:00 AM–12:15 PM   Tu	Building/Room	
+Date	2023-07-06 to 2023-08-04	Session	Open University 2nd 5wk
+Instructor	Yang, Lan	Compnt./Mode	Lecture, Hybrid Asynchronous Component
+			
+20. CS 4200 Section E01			
+Class Nbr	50432	Capacity	30
+Title	Artificial Intelligence	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-07-06 to 2023-08-04	Session	Open University 2nd 5wk
+Instructor	Tang, Fang	Compnt./Mode	Lecture, Fully Asynchronous
+			
+21. CS 4210 Section E02			
+Class Nbr	50434	Capacity	35
+Title	Machine Learning and Its Applications	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-07-06 to 2023-08-04	Session	Open University 2nd 5wk
+Instructor	Ji, Hao	Compnt./Mode	Lecture, Fully Asynchronous
+			
+22. CS 4310 Section E01			
+Class Nbr	50436	Capacity	35
+Title	Operating Systems	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-05-31 to 2023-06-30	Session	Open University 1st 5wk
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Asynchronous
+			
+23. CS 4350 Section E01			
+Class Nbr	50439	Capacity	30
+Title	Database Systems	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-05-31 to 2023-08-04	Session	Open University Session
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, Fully Asynchronous
+			
+24. CS 4410 Section E02			
+Class Nbr	50441	Capacity	0
+Title	Internship in Computer Science	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2023-05-31 to 2023-08-04	Session	Open University Session
+Instructor	Tang, Fang	Compnt./Mode	Supervision, In-Person
+			
+25. CS 4410 Section E03			
+Class Nbr	50979	Capacity	2
+Title	Internship in Computer Science	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2023-07-06 to 2023-08-04	Session	Open University 2nd 5wk
+Instructor	Tang, Fang	Compnt./Mode	Supervision, Fully Asynchronous
+			
+26. CS 4410 Section E04			
+Class Nbr	50980	Capacity	2
+Title	Internship in Computer Science	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2023-07-06 to 2023-08-04	Session	Open University 2nd 5wk
+Instructor	Tang, Fang	Compnt./Mode	Supervision, Fully Asynchronous
+			
+27. CS 4630 Section E01			
+Class Nbr	50444	Capacity	20
+Title	Undergraduate Seminar	Units	1
+Time	8:00 PM–9:15 PM   M	Building/Room	
+Date	2023-05-31 to 2023-08-04	Session	Open University Session
+Instructor	Tang, Fang	Compnt./Mode	Seminar, Bisynchronous
+			
+28. CS 4650 Section E01			
+Class Nbr	50446	Capacity	31
+Title	Big Data Analytics and Cloud Computing	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-05-31 to 2023-06-30	Session	Open University 1st 5wk
+Instructor	Husain, Mohammad	Compnt./Mode	Lecture, Fully Asynchronous
+			
+29. CS 4750 Section E01			
+Class Nbr	50447	Capacity	30
+Title	Mobile Application Development	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2023-05-31 to 2023-06-30	Session	Open University 1st 5wk
+Instructor	Sun, Yu	Compnt./Mode	Lecture, Fully Asynchronous
+			
+30. CS 4800 Section E01			
+Class Nbr	50698	Capacity	30
+Title	Software Engineering	Units	3
+Time	12:30 PM–4:45 PM   TuTh	Building/Room	
+Date	2023-05-31 to 2023-06-30	Session	Open University 1st 5wk
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Lecture, Fully Synchronous
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			

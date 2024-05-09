@@ -1,0 +1,1247 @@
+Summer Semester 2021			
+1. CS 1300 Section E01			
+Class Nbr	51000	Capacity	35
+Title	Discrete Structures	Units	3
+Time	12:30 PM–4:45 PM   TuTh	Building/Room	
+Date	2021-07-08 to 2021-08-06	Session	Open University 2nd 5wk
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Synchronous
+			
+2. CS 1400 Section E01			
+Class Nbr	50884	Capacity	35
+Title	Introduction to Programming and Problem Solving	Units	4
+Time	8:00 AM–10:50 AM   MTuWTh	Building/Room	
+Date	2021-06-02 to 2021-07-02	Session	Open University 1st 5wk
+Instructor	Santana Marin, Ericsson	Compnt./Mode	Lecture, Fully Synchronous
+			
+3. CS 2400 Section E01			
+Class Nbr	50384	Capacity	35
+Title	Data Structures and Advanced Programming	Units	4
+Time	8:00 AM–10:50 AM   MTuWTh	Building/Room	
+Date	2021-06-02 to 2021-07-02	Session	Open University 1st 5wk
+Instructor	Ji, Hao	Compnt./Mode	Lecture, Fully Synchronous
+			
+4. CS 2520 Section E01			
+Class Nbr	50397	Capacity	35
+Title	Python for Programmers	Units	3
+Time	8:00 AM–12:15 PM   TuTh	Building/Room	
+Date	2021-07-08 to 2021-08-06	Session	Open University 2nd 5wk
+Instructor	Ji, Hao	Compnt./Mode	Lecture, Fully Synchronous
+			
+5. CS 2600 Section E01			
+Class Nbr	50386	Capacity	35
+Title	Systems Programming	Units	3
+Time	8:00 AM–12:15 PM   TuTh	Building/Room	
+Date	2021-06-02 to 2021-07-02	Session	Open University 1st 5wk
+Instructor	Raheja, Amar	Compnt./Mode	Lecture, Fully Synchronous
+			
+6. CS 2640 Section E01			
+Class Nbr	50387	Capacity	35
+Title	Computer Organization and Assembly Programming	Units	3
+Time	12:30 PM–4:45 PM   MW	Building/Room	
+Date	2021-06-02 to 2021-07-02	Session	Open University 1st 5wk
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Lecture, Fully Synchronous
+			
+7. CS 2990 Section C01			
+Class Nbr	51132	Capacity	24
+Title	Special Topics for Lower Division Students	Units	3
+	Introduction to Cyber Security		
+Time	No time set.   TBA	Building/Room	
+Date	2021-06-02 to 2021-08-06	Session	Extension Session
+Instructor	Husain, Mohammad	Compnt./Mode	Lecture, Fully Asynchronous
+			
+8. CS 3010 Section E01			
+Class Nbr	50388	Capacity	35
+Title	Numerical Methods	Units	3
+Time	12:30 PM–4:45 PM   TuTh	Building/Room	
+Date	2021-06-02 to 2021-07-02	Session	Open University 1st 5wk
+Instructor	Raheja, Amar	Compnt./Mode	Lecture, Fully Synchronous
+			
+9. CS 3110 Section E01			
+Class Nbr	50390	Capacity	35
+Title	Formal Languages and Automata	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2021-06-02 to 2021-07-02	Session	Open University 1st 5wk
+Instructor	Chen, Tingting	Compnt./Mode	Lecture, Fully Asynchronous
+			
+10. CS 3310 Section E01			
+Class Nbr	50407	Capacity	35
+Title	Design and Analysis of Algorithms	Units	4
+Time	No time set.   TBA	Building/Room	
+Date	2021-06-02 to 2021-08-06	Session	Open University Session
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, Fully Asynchronous
+			
+11. CS 3560 Section E01			
+Class Nbr	50408	Capacity	35
+Title	Object-Oriented Design and Programming	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2021-06-02 to 2021-08-06	Session	Open University Session
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, Fully Asynchronous
+			
+12. CS 3650 Section E01			
+Class Nbr	50389	Capacity	35
+Title	Computer Architecture	Units	4
+Time	No time set.   TBA	Building/Room	
+Date	2021-06-02 to 2021-07-02	Session	Open University 1st 5wk
+Instructor	Yang, Lan	Compnt./Mode	Lecture, Fully Asynchronous
+			
+13. CS 3700 Section E01			
+Class Nbr	50398	Capacity	35
+Title	Parallel Processing	Units	3
+Time	12:30 PM–4:45 PM   MW	Building/Room	
+Date	2021-07-08 to 2021-08-06	Session	Open University 2nd 5wk
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Synchronous
+			
+14. CS 3750 Section E01			
+Class Nbr	50391	Capacity	35
+Title	Computers and Society	Units	3
+Time	12:30 PM–4:45 PM   MW	Building/Room	
+Date	2021-06-02 to 2021-07-02	Session	Open University 1st 5wk
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Synchronous
+			
+15. CS 4080 Section E01			
+Class Nbr	50399	Capacity	35
+Title	Concepts of Programming Languages	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2021-07-08 to 2021-08-06	Session	Open University 2nd 5wk
+Instructor	Raheja, Amar	Compnt./Mode	Lecture, Fully Asynchronous
+			
+16. CS 4200 Section E01			
+Class Nbr	50400	Capacity	35
+Title	Artificial Intelligence	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2021-07-08 to 2021-08-06	Session	Open University 2nd 5wk
+Instructor	Tang, Fang	Compnt./Mode	Lecture, Fully Asynchronous
+			
+17. CS 4310 Section E01			
+Class Nbr	50393	Capacity	35
+Title	Operating Systems	Units	3
+Time	12:30 PM–4:45 PM   TuTh	Building/Room	
+Date	2021-06-02 to 2021-07-02	Session	Open University 1st 5wk
+Instructor	Young, Gilbert	Compnt./Mode	Lecture, Fully Synchronous
+			
+18. CS 4350 Section E01			
+Class Nbr	50409	Capacity	35
+Title	Database Systems	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2021-06-02 to 2021-08-06	Session	Open University Session
+Instructor	Salloum, Salam	Compnt./Mode	Lecture, Fully Asynchronous
+			
+19. CS 4410 Section E01			
+Class Nbr	50899	Capacity	30
+Title	Internship in Computer Science	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-06-02 to 2021-08-06	Session	Open University Session
+Instructor	Husain, Mohammad	Compnt./Mode	Supervision, Fully Asynchronous
+			
+20. CS 4410 Section E02			
+Class Nbr	51062	Capacity	12
+Title	Internship in Computer Science	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-06-02 to 2021-08-06	Session	Open University Session
+Instructor	Tang, Fang	Compnt./Mode	Supervision, Fully Asynchronous
+			
+21. CS 4410 Section E03			
+Class Nbr	51095	Capacity	6
+Title	Internship in Computer Science	Units	2
+Time	No time set.   TBA	Building/Room	
+Date	2021-06-02 to 2021-08-06	Session	Open University Session
+Instructor	Tang, Fang	Compnt./Mode	Supervision, Fully Asynchronous
+			
+22. CS 4410 Section E04			
+Class Nbr	51149	Capacity	2
+Title	Internship in Computer Science	Units	1
+Time	No time set.   TBA	Building/Room	
+Date	2021-07-08 to 2021-08-06	Session	Open University 2nd 5wk
+Instructor	Tang, Fang	Compnt./Mode	Supervision, Fully Asynchronous
+			
+23. CS 4600 Section E01			
+Class Nbr	50488	Capacity	35
+Title	Cryptography and Information Security	Units	3
+Time	8:00 AM–12:15 PM   TuTh	Building/Room	
+Date	2021-07-08 to 2021-08-06	Session	Open University 2nd 5wk
+Instructor	Chen, Tingting	Compnt./Mode	Lecture, Fully Synchronous
+			
+24. CS 4630 Section E01			
+Class Nbr	50410	Capacity	20
+Title	Undergraduate Seminar	Units	1
+Time	8:00 PM–9:15 PM   W	Building/Room	
+Date	2021-06-02 to 2021-08-06	Session	Open University Session
+Instructor	Tang, Fang	Compnt./Mode	Seminar, Fully Synchronous
+			
+25. CS 4650 Section E01			
+Class Nbr	50403	Capacity	35
+Title	Big Data Analytics and Cloud Computing	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2021-07-08 to 2021-08-06	Session	Open University 2nd 5wk
+Instructor	Husain, Mohammad	Compnt./Mode	Lecture, Fully Asynchronous
+			
+26. CS 4750 Section E01			
+Class Nbr	50396	Capacity	35
+Title	Mobile Application Development	Units	3
+Time	8:00 AM–12:15 PM   TuTh	Building/Room	
+Date	2021-06-02 to 2021-07-02	Session	Open University 1st 5wk
+Instructor	Sun, Yu	Compnt./Mode	Lecture, Fully Synchronous
+			
+27. CS 4800 Section E01			
+Class Nbr	50404	Capacity	35
+Title	Software Engineering	Units	3
+Time	12:30 PM–4:45 PM   TuTh	Building/Room	
+Date	2021-07-08 to 2021-08-06	Session	Open University 2nd 5wk
+Instructor	Amamra, Abdelfattah	Compnt./Mode	Lecture, Fully Synchronous
+			
+28. CS 4990 Section E01			
+Class Nbr	50405	Capacity	35
+Title	Special Topics for Upper Division Students	Units	3
+Time	No time set.   TBA	Building/Room	
+Date	2021-07-08 to 2021-08-06	Session	Open University 2nd 5wk
+Instructor	Husain, Mohammad	Compnt./Mode	Lecture, Fully Asynchronous
+			
+29. CS 6990 Section E01			
+Class Nbr	50933	Capacity	1
+Title	Master's Degree Continuation	Units	0
+Time	No time set.   TBA	Building/Room	
+Date	2021-06-02 to 2021-08-06	Session	Open University Session
+Instructor	Raheja, Amar	Compnt./Mode	Supervision, Fully Asynchronous
+			
+30. CS 6990 Section E02			
+Class Nbr	51116	Capacity	1
+Title	Master's Degree Continuation	Units	0
+Time	No time set.   TBA	Building/Room	
+Date	2021-06-02 to 2021-08-06	Session	Open University Session
+Instructor	Tang, Fang	Compnt./Mode	Supervision, Fully Synchronous
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
